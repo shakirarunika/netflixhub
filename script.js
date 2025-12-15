@@ -6,7 +6,7 @@
 // KONFIGURASI
 // ============================================
 const CONFIG = {
-    API_URL: 'https://script.google.com/macros/s/AKfycbxqL-NtL2D10s-WSRv5GlOypQLIOQtlPVxPFlVbZyio1cq3eCJSsvXTn0NERqjgN35a/exec',
+    API_URL: 'https://script.google.com/macros/s/AKfycbzMTk2LqeTOqlgohmAWcnJvuuadQ9GO4Crmpwt2rQWyqoSLULm3q3ot7Q3cN-tbT259/exec',
     REFRESH_INTERVAL: 30000, // 30 detik
 };
 
