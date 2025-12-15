@@ -61,6 +61,7 @@ function getNetflixEmails() {
       const needsHtml = (
         subject.toLowerCase().includes('household') || 
         subject.toLowerCase().includes('access') || 
+        subject.toLowerCase().includes('your sign-in code') || 
         subject.toLowerCase().includes('kode akses')
       );
       
